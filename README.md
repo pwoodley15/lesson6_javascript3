@@ -4,19 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 22, 2018
 
 ### Student Name:  
-(First and Last Name)
+Paul Woodley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Document that displays a photo gallery and allows the user to scroll through the images and dictate how many images are shown on the screen at once.
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. This assignment helps in understanding how to access different nodes in a document by using the elements distinct id, class name, tag name, or selector.
+2. This assignment also helps in understanding how to access element content, CSS properties, and attributes. 
+3. This assignment finally describes how to add and remove document nodes.
