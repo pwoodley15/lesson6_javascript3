@@ -13,8 +13,7 @@ Paul Woodley
 Document that displays a photo gallery and allows the user to scroll through the images and dictate how many images are shown on the screen at once.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://pwoodley15.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
 1. This assignment helps in understanding how to access different nodes in a document by using the elements distinct id, class name, tag name, or selector.
